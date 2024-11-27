@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class Car implements Runnable {
-    public static int DISTANCE = 1000;
+    public static int DISTANCE = 100;
     public static int STEP = 5;
 
     private String name;

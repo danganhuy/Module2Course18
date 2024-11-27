@@ -10,7 +10,7 @@ public class Exercise2 {
 
         System.out.println("Distance: " + Car.DISTANCE + "KM");
         thread1.start();
-//        thread2.start();
-//        thread3.start();
+        thread2.start();
+        thread3.start();
     }
 }
